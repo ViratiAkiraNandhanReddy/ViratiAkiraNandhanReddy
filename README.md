@@ -16,7 +16,7 @@ I'm a **[Your Role]** passionate about **Programming/Coding**. I love building p
 - 📫 How to reach me: **viratiaki53@gmail.com**
 - ⚡ Fun fact: **[Something Interesting About You]**
 - 🔥 Recent Sucessful Project: [***Bank-With-High-Functionalities***](https://github.com/ViratiAkiraNandhanReddy/Bank-With-High-Functionalities)
-- 📱 Connect With Me At: [**LinkedIn**]() [Twitter]() [Instagram]() [Facebook]()
+- 📱 Connect With Me At: [**LinkedIn**]() [**Twitter**]() [**Instagram**]() [**Facebook**]()
 
 ---
 
