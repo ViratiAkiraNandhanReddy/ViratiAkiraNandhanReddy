@@ -1,16 +1,7 @@
-- 👋 Hi, I’m @ViratiAkiraNandhanReddy
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 Reach Me Through:
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
 <!---
 ViratiAkiraNandhanReddy/ViratiAkiraNandhanReddy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
 
 
 # Hi there, I'm Virati Akira Nandhan Reddy 👋
@@ -31,7 +22,6 @@ I'm a **[Your Role]** passionate about **[Your Interests]**. I love building pro
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ViratiAkiraNandhanReddy&show_icons=true&theme=radical" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ViratiAkiraNandhanReddy&theme=radical" height="165"/>
 </p>
 
