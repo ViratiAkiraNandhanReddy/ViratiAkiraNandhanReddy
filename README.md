@@ -49,7 +49,7 @@ I'm a **[Your Role]** passionate about **[Your Interests]**. I love building pro
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ViratiAkiraNandhanReddy&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ViratiAkiraNandhanReddy&theme=radical" height="165"/>
 </p>
 
 ---
