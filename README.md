@@ -4,17 +4,17 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-# Hi there, I'm Virati Akira Nandhan Reddy 👋
+<h1>Hi there, I'm Virati Akira Nandhan Reddy 👋</h1>
 
 ![Banner](https://your-image-link.com)  
 
 ## 🚀 About Me
-I'm a **[Your Role]** passionate about **[Your Interests]**. I love building projects that solve real-world problems and contribute to open-source communities. 
+I'm a **[Your Role]** passionate about **Programming/Coding**. I love building projects that solve real-world problems and contribute to open-source communities. 
 
 - 🔭 I’m currently working on **Bank-With-High-Functionalities**
-- 🌱 I’m learning **[Technologies or Skills]**
+- 🌱 I’m learning **Artificial intelligence, Python & C++**
 - 💬 Ask me about **[Topics You're Proficient In]**
-- 📫 How to reach me: **[Your Email or Social Links]**
+- 📫 How to reach me: **viratiaki53@gmail.com**
 - ⚡ Fun fact: **[Something Interesting About You]**
 
 
@@ -49,17 +49,13 @@ I'm a **[Your Role]** passionate about **[Your Interests]**. I love building pro
 ## 🎉 Fun Facts & More
 
 - 🧩 I enjoy solving coding challenges on LeetCode.
-- 🎮 Gaming is my stress buster.
 - 🌍 Love to explore new tech and communities.
-- ✍️ I write tech blogs on [Your Blog Link]
-- 🎤 Occasionally speak at tech conferences.
 - 🌱 Trying to grow my knowledge every day.
 - 🔥 Passionate about open-source and community-driven development.
 - 💻 Always tinkering with new programming languages.
 - 📚 Avid reader of tech books and sci-fi novels.
 - 🏆 Participated in multiple hackathons and coding competitions.
 - 🌟 Love mentoring junior developers and students.
-- 🎵 Enjoy playing musical instruments in my free time.
 - 🌎 Have traveled to multiple countries for tech events.
 - 🔧 Love automating repetitive tasks with scripts.
 - 🛠️ Frequently experiment with new software tools.
