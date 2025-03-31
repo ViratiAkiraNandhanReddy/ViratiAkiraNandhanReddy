@@ -9,7 +9,9 @@ You can click the Preview link to take a look at your changes.
 ## 🚀 About Me
 I'm a **[Your Role]** passionate about **Programming/Coding**. I love building projects that solve real-world problems and contribute to open-source communities. 
 
-- 🔭 I’m currently working on **Bank-With-High-Functionalities**
+- 🔭 I’m currently working on **Bank-With-High-Functionalities** <p align="right">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ViratiAkiraNandhanReddy&theme=light" height="120"/>
+</p>
 - 🌱 I’m learning **Artificial intelligence, Python & C++**
 - 💬 Ask me about **[Topics You're Proficient In]**
 - 📫 How to reach me: **viratiaki53@gmail.com**
@@ -17,7 +19,7 @@ I'm a **[Your Role]** passionate about **Programming/Coding**. I love building p
 - 🔥 Recent Sucessful Project: [***Bank-With-High-Functionalities***](https://github.com/ViratiAkiraNandhanReddy/Bank-With-High-Functionalities)
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ViratiAkiraNandhanReddy&theme=light" height="120" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ViratiAkiraNandhanReddy&theme=light" height="120"/>
 </p>
 
 
