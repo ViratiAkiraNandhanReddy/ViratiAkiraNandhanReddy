@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-<h1>Hi there, I'm Virati Akira Nandhan Reddy 👋</h1>
+# Hi there, I'm Virati Akira Nandhan Reddy 👋
 
 ![Banner](https://your-image-link.com)  
 
@@ -64,4 +64,8 @@ I'm a **[Your Role]** passionate about **Programming/Coding**. I love building p
 ---
 
 ⭐️ From [Virati Akira Nandhan Reddy](https://github.com/ViratiAkiraNandhanReddy)
+
+.markdown-body .anchor {
+    display: none;
+}
 
