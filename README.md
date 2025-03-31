@@ -17,15 +17,11 @@ I'm a **[Your Role]** passionate about **[Your Interests]**. I love building pro
 - 📫 How to reach me: **[Your Email or Social Links]**
 - ⚡ Fun fact: **[Something Interesting About You]**
 
----
-
-## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ViratiAkiraNandhanReddy&theme=radical" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ViratiAkiraNandhanReddy&theme=light" height="165"/>
 </p>
 
----
 
 ## 🔥 Recent Projects
 
