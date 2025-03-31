@@ -17,7 +17,7 @@ I'm a **[Your Role]** passionate about **Programming/Coding**. I love building p
 - 🔥 Recent Sucessful Project: [***Bank-With-High-Functionalities***](https://github.com/ViratiAkiraNandhanReddy/Bank-With-High-Functionalities)
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ViratiAkiraNandhanReddy&theme=light" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ViratiAkiraNandhanReddy&theme=light" height="120" width="400"/>
 </p>
 
 
