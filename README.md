@@ -27,14 +27,9 @@ I'm a **[Your Role]** passionate about **Programming/Coding**. I love building p
 - 🌱 Trying to grow my knowledge every day.
 - 🔥 Passionate about open-source and community-driven development.
 - 💻 Always tinkering with new programming languages.
-- 📚 Avid reader of tech books and sci-fi novels.
 - 🏆 Participated in multiple hackathons and coding competitions.
 - 🌟 Love mentoring junior developers and students.
-- 🌎 Have traveled to multiple countries for tech events.
 - 🔧 Love automating repetitive tasks with scripts.
 - 🛠️ Frequently experiment with new software tools.
 
----
-
 ⭐️ From [Virati Akira Nandhan Reddy](https://github.com/ViratiAkiraNandhanReddy)
-
