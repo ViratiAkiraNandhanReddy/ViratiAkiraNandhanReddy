@@ -12,8 +12,8 @@ You can click the Preview link to take a look at your changes.
 I'm a **Learning Developer** passionate about **Programming/Coding**. I love building projects that solve real-world problems and contribute to open-source communities. 
 
 - 🔭 I’m currently working on **Bank-With-High-Functionalities**
-- 🌱 I’m learning **Artificial intelligence, Python & C++**
-- 💬 Ask me about **Computer Science And AI**
+- 🌱 I’m learning **Artificial Intelligence, Python & C++**
+- 💬 Ask me about **Computer Science & Artificial Intelligence**
 - 📫 How to reach me: **viratiaki53@gmail.com**
 - ⚡ Fun fact: **[Something Interesting About You]**
 - 🔥 Recent Sucessful Project: [***Bank-With-High-Functionalities***](https://github.com/ViratiAkiraNandhanReddy/Bank-With-High-Functionalities)
