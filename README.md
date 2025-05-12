@@ -20,16 +20,8 @@ You can click the Preview link to take a look at your changes.
 <!-- Profile Header -->
 <h1 align="center">🌟 Welcome to My GitHub World! 🌍</h1>
 
-<!-- Only Coding GIF (Back up) <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
-</p> -->
-
 <p align="center">
-    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2g5ajc0cGRxdHhxYjBldmVuZG1jZm42ejYyZjNzdHU3NTY5c2t1NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TEp7AqHsrn5wTwbKCz/giphy.gif" width="300" />
-    &nbsp;&nbsp;&nbsp;
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWliNHNjb2gyZ3NpZGJiZDMydThmMnRlZjU5Mm9qc3YyZXA3bWZ4MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ggK04fdPVARRtH8w7G/giphy.gif" width="300" />
 </p>
 
 ---
@@ -51,15 +43,15 @@ Fun Fact: I'm Not a Rocket Scientist 🚀
 ![Innovative](https://img.shields.io/badge/-Innovative-ff4500?style=flat&logo=lightbulb)
 ![Learning](https://img.shields.io/badge/-Learning-ff6347?style=flat&logo=book)
 ![Problem Solver](https://img.shields.io/badge/-Problem%20Solver-00bfff?style=flat&logo=brain)
-![Tech Enthusiast](https://img.shields.io/badge/-Tech%20Enthusiast-00bfff?style=flat&logo=computer)
 ![Automation](https://img.shields.io/badge/-Automation-00bfff?style=flat&logo=robot)
 ![Creative](https://img.shields.io/badge/-Creative-ff69b4?style=flat&logo=palette)
 ![Loves To Live In USA](https://img.shields.io/badge/-Loves%20To%20Live%20In%20USA-00bfff?style=flat&logo=globe)
-![Focusing On AI](https://img.shields.io/badge/-Focusing%20On%20AI-00bfff?style=flat&logo=target)
-![Quick Learner](https://img.shields.io/badge/-I'm%20A%20Quick%20Learner-00bfff?style=flat&logo=beach)
 
 ## 🛠️ My Favorite Tech Stack - \[ Learning and Learned \]
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,ai,md,mysql,cpp,c,git,bash,github,vscode,java,tensorflow,html,css,js" /> </p> <p align="center"> <img src="https://img.shields.io/badge/AI/ML-Learning-%23FF00A0?style=for-the-badge" /> <img src="https://img.shields.io/badge/Open%20Source-Contributor-%2300bfff?style=for-the-badge" /> <img src="https://img.shields.io/badge/Productivity-Automation-%23FFD700?style=for-the-badge" /> </p>
+<p align="center"> 
+  <img src="https://skillicons.dev/icons?i=python,ai,md,mysql,cpp,c,git,bash,github,vscode,java,tensorflow,html,css,js" />
+</p> 
+
 
 ## 🗺️ My Developer Journey
 ```yaml
