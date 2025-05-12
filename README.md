@@ -20,12 +20,6 @@ You can click the Preview link to take a look at your changes.
 <!-- Profile Header -->
 <h1 align="center">🌟 Welcome to My GitHub World! 🌍</h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
-</p>
-
----
-
 ## 🔖 Who Am I?
 
 ```yaml
@@ -37,17 +31,14 @@ Current Focus: AI Based Automation Projects & Open Source Contributions
 Hobbies: Movies, Reading, and Exploring New Technologies
 Fun Fact: I'm Not a Rocket Scientist 🚀
 ```
+<p align="center">
+  <img src="https://img.shields.io/badge/-AI%20Enthusiast-purple?style=flat"/>
+  <img src="https://img.shields.io/badge/-Open%20Source-00bfff?style=flat"/>
+  <img src="https://img.shields.io/badge/-Learning-ff6347?style=flat&logo=book"/>
+  <img src="https://img.shields.io/badge/-Creative-ff69b4?style=flat&logo=palette"/>
+</p>
 
-![AI Enthusiast](https://img.shields.io/badge/-AI%20Enthusiast-purple?style=flat)
-![Open Source](https://img.shields.io/badge/-Open%20Source-00bfff?style=flat)
-![Innovative](https://img.shields.io/badge/-Innovative-ff4500?style=flat&logo=lightbulb)
-![Learning](https://img.shields.io/badge/-Learning-ff6347?style=flat&logo=book)
-![Problem Solver](https://img.shields.io/badge/-Problem%20Solver-00bfff?style=flat&logo=brain)
-![Automation](https://img.shields.io/badge/-Automation-00bfff?style=flat&logo=robot)
-![Creative](https://img.shields.io/badge/-Creative-ff69b4?style=flat&logo=palette)
-![Loves To Live In USA](https://img.shields.io/badge/-Loves%20To%20Live%20In%20USA-00bfff?style=flat&logo=globe)
-
-## 🛠️ My Favorite Tech Stack - \[ Learning and Learned \]
+## 🛠️ My Favorite Tech Stack
 <p align="center"> 
   <img src="https://skillicons.dev/icons?i=python,ai,md,mysql,cpp,c,git,bash,github,vscode,java,tensorflow,html,css,js" />
 </p> 
