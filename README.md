@@ -40,7 +40,7 @@ Fun Fact: I'm Not a Rocket Scientist 🚀
 
 ## 🛠️ My Favorite Tech Stack
 <p align="center"> 
-  <img src="https://skillicons.dev/icons?i=python,ai,md,mysql,cpp,c,git,bash,github,vscode,java,tensorflow,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=python,md,mysql,cpp,c,git,bash,github,vscode,java,tensorflow,html,css,js" />
 </p> 
 
 
